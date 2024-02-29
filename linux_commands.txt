@@ -1,0 +1,36 @@
+cd-changee directory-folderin icine girmeymizi gosterir
+Mesel:cd + "folderin adi"
+
+cd .. - biyag girdiyimz folderden cixiw
+
+/-folderin icindeki foldere girmey
+Mesel:cd "folderin adi"/"folderin adi"
+
+ls-list of the apps-senin oldugun folderde neler oldugunu gosterir
+
+ls -l --butun faillari temiz wekilde ,1 siralama ile,yuxardan awagi gosterir(yaddawida gosterir,bitlerle)
+
+ls -lh --oda butun faillari temiz wekilde,1 siralama ile,yuxardan awagi gosterir (yaddawi kb,mb ile gosterir,ona gore rahatti)
+
+pwd-print working directory-oldugumuz folderin yerlewdiyi yeri gosterir
+
+mkdir-make directory-folder yaradir
+Mesel:mkdir +"Folderin adi".probel goyub yene nese yazsag ,2 dene folder yaradacag
+
+clear-terminali temizdiyir
+
+rmdir-remove directory-folderi silir
+Mesel:rmdir "Folderin adi"
+
+touch-fayl yaradir
+Mesel:touch +"Faylin adi".txt
+
+rm-removes fales-fayli silmek ucun
+Mesel:rm +"Faylin adi"
+
+cat-fayli oxumag ucun
+Mesel:cat +"faylin adi"
+
+nano-faylin icindeki olan yazni deyiwdirmey ucun
+Mesel:nano + "Faylin adi"
+

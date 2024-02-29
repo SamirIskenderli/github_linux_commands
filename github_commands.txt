@@ -1,0 +1,22 @@
+git add-iwdediyin katalogdan fayli indeks soxranit eliyir
+Mesel:git add faylin adi
+
+git branch-proektinde bir budaq acir ki,bawqa bir insanda gowulsun senle iwlesin
+mesel:git branch budaqin adi
+
+git checkout-iwlediyivin budaqin butun informasiyasini verir
+mesel:git checkout budaqin adi
+
+git clean-iwlediyin katalogdan gorsenmiyen fayllari silir
+
+git clone-iwlediyin repostoriesin kopiyasini yaradir
+
+git commit-her ne elave elesen,yazirsan ki bilesen,ve yadinnan cixmasin
+
+git commit --amend-axirinci commitve elaveler eliyir
+
+git init-yeni repostories yaradir
+
+git log-proektin informaciyasini gosterir
+
+git push-yenilikleri repostoriese yollayir
